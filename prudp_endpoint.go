@@ -355,6 +355,8 @@ func (pep *PRUDPEndPoint) handleConnect(packet PRUDPPacketInterface) {
 			return
 		}
 
+		logger.Warningf("Decompressed payload length: %d", len(decompressedPayload))
+		
 		sessionKey, pid, checkValue, err := pep.ReadKerberosTicket(decompressedPayload)
 		if err != nil {
 			logger.Error(err.Error())
