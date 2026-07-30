@@ -1,7 +1,7 @@
 package nex
 
 import (
-	"github.com/PretendoNetwork/nex-go/v2/types"
+	"github.com/SamtendoNetwork/nex-go/v2/types"
 	crunch "github.com/superwhiskers/crunch/v3"
 )
 

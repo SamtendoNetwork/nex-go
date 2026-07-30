@@ -4,7 +4,7 @@ import (
 	"encoding/hex"
 	"testing"
 
-	"github.com/PretendoNetwork/nex-go/v2/types"
+	"github.com/SamtendoNetwork/nex-go/v2/types"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -4,7 +4,7 @@ import (
 	"crypto/rc4"
 	"time"
 
-	"github.com/PretendoNetwork/nex-go/v2/constants"
+	"github.com/SamtendoNetwork/nex-go/v2/constants"
 )
 
 // PRUDPPacket holds all the fields each packet should have in all PRUDP versions

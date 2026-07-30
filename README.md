@@ -1,6 +1,6 @@
 # NEX Go
 
-[![GoDoc](https://godoc.org/github.com/PretendoNetwork/nex-go?status.svg)](https://godoc.org/github.com/PretendoNetwork/nex-go)
+[![GoDoc](https://godoc.org/github.com/SamtendoNetwork/nex-go?status.svg)](https://godoc.org/github.com/SamtendoNetwork/nex-go)
 
 ### Overview
 NEX is the networking library used by all 1st party, and many 3rd party, games on the Nintendo Wii U, 3DS, and Switch which have online features. The NEX library has many different parts, ranging from low level packet transport to higher level service implementations
@@ -10,7 +10,7 @@ This library implements the lowest level parts of NEX, the transport protocols. 
 ### Install
 
 ```
-go get github.com/PretendoNetwork/nex-go/v2
+go get github.com/SamtendoNetwork/nex-go/v2
 ```
 
 ### Other NEX libraries
@@ -55,8 +55,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/PretendoNetwork/nex-go/v2"
-	"github.com/PretendoNetwork/nex-go/v2/types"
+	"github.com/SamtendoNetwork/nex-go/v2"
+	"github.com/SamtendoNetwork/nex-go/v2/types"
 )
 
 func main() {

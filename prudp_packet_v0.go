@@ -9,7 +9,7 @@ import (
 	"net"
 	"slices"
 
-	"github.com/PretendoNetwork/nex-go/v2/constants"
+	"github.com/SamtendoNetwork/nex-go/v2/constants"
 )
 
 // PRUDPPacketV0 represents a PRUDPv0 packet

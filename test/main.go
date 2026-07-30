@@ -3,8 +3,8 @@ package main
 import (
 	"sync"
 
-	"github.com/PretendoNetwork/nex-go/v2"
-	"github.com/PretendoNetwork/nex-go/v2/types"
+	"github.com/SamtendoNetwork/nex-go/v2"
+	"github.com/SamtendoNetwork/nex-go/v2/types"
 )
 
 var wg sync.WaitGroup

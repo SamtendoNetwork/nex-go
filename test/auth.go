@@ -5,9 +5,9 @@ import (
 	"encoding/hex"
 	"fmt"
 
-	"github.com/PretendoNetwork/nex-go/v2"
-	"github.com/PretendoNetwork/nex-go/v2/constants"
-	"github.com/PretendoNetwork/nex-go/v2/types"
+	"github.com/SamtendoNetwork/nex-go/v2"
+	"github.com/SamtendoNetwork/nex-go/v2/constants"
+	"github.com/SamtendoNetwork/nex-go/v2/types"
 )
 
 var authServer *nex.PRUDPServer

@@ -7,8 +7,8 @@ import (
 	"slices"
 	"time"
 
-	"github.com/PretendoNetwork/nex-go/v2/constants"
-	"github.com/PretendoNetwork/nex-go/v2/types"
+	"github.com/SamtendoNetwork/nex-go/v2/constants"
+	"github.com/SamtendoNetwork/nex-go/v2/types"
 )
 
 // PRUDPEndPoint is an implementation of rdv::PRUDPEndPoint.

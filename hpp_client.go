@@ -3,7 +3,7 @@ package nex
 import (
 	"net"
 
-	"github.com/PretendoNetwork/nex-go/v2/types"
+	"github.com/SamtendoNetwork/nex-go/v2/types"
 )
 
 // HPPClient represents a single HPP client

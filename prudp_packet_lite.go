@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"net"
 
-	"github.com/PretendoNetwork/nex-go/v2/constants"
+	"github.com/SamtendoNetwork/nex-go/v2/constants"
 )
 
 // PRUDPPacketLite represents a PRUDPLite packet

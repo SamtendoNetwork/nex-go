@@ -1,8 +1,8 @@
 package nex
 
 import (
-	"github.com/PretendoNetwork/nex-go/v2/compression"
-	"github.com/PretendoNetwork/nex-go/v2/encryption"
+	"github.com/SamtendoNetwork/nex-go/v2/compression"
+	"github.com/SamtendoNetwork/nex-go/v2/encryption"
 )
 
 // StreamSettings is an implementation of rdv::StreamSettings.

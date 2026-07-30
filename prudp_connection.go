@@ -6,8 +6,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/PretendoNetwork/nex-go/v2/constants"
-	"github.com/PretendoNetwork/nex-go/v2/types"
+	"github.com/SamtendoNetwork/nex-go/v2/constants"
+	"github.com/SamtendoNetwork/nex-go/v2/types"
 )
 
 // PRUDPConnection implements an individual PRUDP virtual connection.

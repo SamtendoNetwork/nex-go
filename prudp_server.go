@@ -11,7 +11,7 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/PretendoNetwork/nex-go/v2/constants"
+	"github.com/SamtendoNetwork/nex-go/v2/constants"
 	"github.com/lxzan/gws"
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/promauto"
